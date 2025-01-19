@@ -24,3 +24,9 @@ alias hd "history delete"
 
 # starship
 starship init fish | source
+
+# pyenv
+set PYENV_ROOT $HOME/.pyenv
+fish_add_path $PYENV_ROOT/shims
+fish_add_path $PYENV_ROOT/bin
+pyenv rehash
