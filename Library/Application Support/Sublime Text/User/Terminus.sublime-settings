@@ -1,0 +1,20 @@
+{
+	"default_config": {
+		"osx": "Fish",
+	},
+	"shell_configs": [
+		{
+			"name": "Fish",
+			"cmd": [
+				"fish",
+				"-i",
+				"-l"
+			],
+			"env": {},
+			"enable": true,
+			"platforms": [
+				"osx"
+			]
+		},
+	]
+}

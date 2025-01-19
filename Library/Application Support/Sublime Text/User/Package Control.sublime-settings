@@ -1,0 +1,16 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Gomod",
+		"LSP",
+		"LSP-gopls",
+		"Package Control",
+		"Protobuf Syntax Hightlighting",
+		"rainbow_csv",
+		"Terminus",
+	],
+}

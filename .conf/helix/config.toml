@@ -1,0 +1,11 @@
+# theme = "base16_default"
+theme = "catppuccin_macchiato"
+
+[editor]
+
+# Use relative line numbers
+# line-number = "relative"
+
+# Show a ruler at column 80
+rulers = [80]
+shell = ["/opt/homebrew/bin/fish", "-c"]

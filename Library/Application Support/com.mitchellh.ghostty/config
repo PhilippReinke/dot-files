@@ -1,0 +1,8 @@
+font-size = 14
+
+shell-integration = fish
+quit-after-last-window-closed
+
+background-opacity = 0.9
+theme = 0x96f
+background = #000000

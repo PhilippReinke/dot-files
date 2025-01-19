@@ -1,0 +1,18 @@
+[
+	{
+		"keys": [
+			"super+shift+0"
+		],
+		"command": "terminus_open",
+		"args": {
+			"config_name": "Default",
+			"cwd": "${file_path:${folder}}"
+		}
+	},
+	{
+		"keys": [
+			"super+shift+o"
+		],
+		"command": "prompt_select_workspace"
+	}
+]
